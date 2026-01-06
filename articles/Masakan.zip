@@ -1,0 +1,6 @@
+<h2 class="text-2xl font-bold text-orange-600 mb-2">Rendang Daging Otentik</h2>
+<img src="https://images.unsplash.com/photo-1544148103-0773bf10d330?auto=format&fit=crop&w=800&q=80" class="w-full h-48 object-cover rounded-lg mb-4">
+<p class="text-gray-600 leading-relaxed">
+    Rendang adalah masakan berbahan dasar daging yang dihasilkan dari proses memasak suhu rendah dalam waktu lama...
+</p>
+<button class="mt-4 bg-orange-500 text-white px-4 py-2 rounded-lg">Baca Selengkapnya</button>
